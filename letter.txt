@@ -1,1 +1,1 @@
-Thanks {{name}} for purchasing {{item}} from our outlet {{outlet}}.Please visit our outlet {{outlet}} for any kind of problem . We plan to serve you again soon .
+Thanks {{name}} for purchasing {{item}} from our outlet {{outlet}}.Please visit our outlet {{outlet}} for any kind of problem . We plan to serve you again soon . Have a nice day.
